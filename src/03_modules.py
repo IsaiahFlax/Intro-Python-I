@@ -54,3 +54,7 @@ print(os.environ['COMPUTERNAME'])
 print("")
 print("os.environ['USERNAME']")
 print(os.environ['USERNAME'])
+
+print("")
+print("os.getlogin()")
+print(os.getlogin())
